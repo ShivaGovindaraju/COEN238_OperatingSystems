@@ -1,0 +1,16 @@
+
+[Parent] Creates Pipeline.
+
+[Parent] Creates Child Processes.
+
+[Child A] is Writer to the Pipe.
+
+[Child A] Finished Writing. Wrote 10 bytes to the Pipe.
+
+[Child B] is Reader to the Pipe.
+
+[Child B] Message: i love you
+
+[Child B] Finished Reading.
+
+[Parent] is done.
